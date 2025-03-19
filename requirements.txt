@@ -1,2 +1,4 @@
 flet
 flet_web
+uvicorn
+uvloop
